@@ -13,6 +13,3 @@ jobs:
       node-version: '14'
       run: npm install
       run: npm test
-    # 步骤名称 name
-    - name: Print a greeting
-      run: node app.js
